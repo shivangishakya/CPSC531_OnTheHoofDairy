@@ -7,6 +7,9 @@ Technology Stack
  - Backend : PHP
  - IDE: Visual studio code
 
+![image](https://user-images.githubusercontent.com/71597613/167887903-8ebbaad3-b70b-4508-a410-179a5b68fd4d.png)
+
+
 
 System Input and Output
 Input : The company will use the provided form to gather the data related to Cow, Herd, Milk Production, Cow Birth , Feed and Medical history.
