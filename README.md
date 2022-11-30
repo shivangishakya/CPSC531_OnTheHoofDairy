@@ -20,10 +20,10 @@ On The Hoof dairy is an agriculture business that needs an information system to
     Collect the information about every cow.  
       
 ### FR2: 
-    Track of Cow milk production and births:  
-    a. Tracking the sire and cow (natural or artificial insemination)   
-    b. Keeping the track of the amount of milk (in pounds) given on each date.   
-    c. Tracking the death and/or selling of cows with the date and the cause to let the managers aware of the cows which are no longer active. 
+   Track of Cow milk production and births:  
+   a. Tracking the sire and cow (natural or artificial insemination)   
+   b. Keeping the track of the amount of milk (in pounds) given on each date.   
+   c. Tracking the death and/or selling of cows with the date and the cause to let the managers aware of the cows which are no longer active. 
       
 ### FR3: 
    Generation of Production Report:   
