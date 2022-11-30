@@ -26,9 +26,9 @@ On The Hoof dairy is an agriculture business that needs an information system to
     c. Tracking the death and/or selling of cows with the date and the cause to let the managers aware of the cows which are no longer active. 
       
 ### FR3: 
-    Generation of Production Report:   
-    a. Generating the report to display average milk production by day and week.   
-    b. Compute the average production of the offspring of a given cow to see how production capability is passed genetically by tracking the births and the resulting genealogy.   
+   Generation of Production Report:   
+   a. Generating the report to display average milk production by day and week.   
+   b. Compute the average production of the offspring of a given cow to see how production capability is passed genetically by tracking the births and the resulting genealogy.   
 
 ### FR4: 
    Cost and Content of Feed:   
