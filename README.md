@@ -12,33 +12,33 @@ On The Hoof dairy is an agriculture business that needs an information system to
 
 
 ## System Input and Output
-Input : The company will use the provided form to gather the data related to Cow, Herd, Milk Production, Cow Birth , Feed and Medical history.
-Output : The system output depends upon the operations performed by the company. For Example: Update, Delete, View, and Adding the data to the database.
+- Input : The company will use the provided form to gather the data related to Cow, Herd, Milk Production, Cow Birth , Feed and Medical history.  
+- Output : The system output depends upon the operations performed by the company. For Example: Update, Delete, View, and Adding the data to the database.
 
 ## Business Functions
 ### FR1: 
-      Collect the information about every cow.  
+     Collect the information about every cow.  
       
 ### FR2: 
-      Track of Cow milk production and births:  
-      a. Tracking the sire and cow (natural or artificial insemination)   
-      b. Keeping the track of the amount of milk (in pounds) given on each date.   
-      c. Tracking the death and/or selling of cows with the date and the cause to let the managers aware of the cows which are no longer active. 
+     Track of Cow milk production and births:  
+     a. Tracking the sire and cow (natural or artificial insemination)   
+     b. Keeping the track of the amount of milk (in pounds) given on each date.   
+     c. Tracking the death and/or selling of cows with the date and the cause to let the managers aware of the cows which are no longer active. 
       
 ### FR3: 
-      Generation of Production Report:   
-      a. Generating the report to display average milk production by day and week.   
-      b. Compute the average production of the offspring of a given cow to see how production capability is passed genetically by tracking the births and the resulting genealogy.   
+     Generation of Production Report:   
+     a. Generating the report to display average milk production by day and week.   
+     b. Compute the average production of the offspring of a given cow to see how production capability is passed genetically by tracking the births and the resulting genealogy.   
 
 ### FR4: 
-     Cost and Content of Feed:   
-     a. Measure the cost of home-grown feed using the market cost of equivalent feed.   
-     b. Tracking the protein content of the feed. 
+    Cost and Content of Feed:   
+    a. Measure the cost of home-grown feed using the market cost of equivalent feed.   
+    b. Tracking the protein content of the feed. 
      
 ### FR5: 
-    How to Feed:   
-    a. Recording the daily feed of the herds (group of cows). In case, it is coming from different sources, all sources must be recorded.   
-    b. Recording the location of the herd where feed is provided.  
+   How to Feed:   
+   a. Recording the daily feed of the herds (group of cows). In case, it is coming from different sources, all sources must be recorded.   
+   b. Recording the location of the herd where feed is provided.  
 
 ### FR6: 
    Medical History and Treatment:   
