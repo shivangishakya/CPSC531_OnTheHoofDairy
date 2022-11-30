@@ -17,7 +17,7 @@ On The Hoof dairy is an agriculture business that needs an information system to
 
 ## Business Functions
 ### FR1: 
-    Collect the information about every cow.  
+   Collect the information about every cow.  
       
 ### FR2: 
    Track of Cow milk production and births:  
